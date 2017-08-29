@@ -2,6 +2,6 @@
 
 void main()
 {
-	int a,b,c;
+	int a,b,c,d,e,f;
 	printf("this is a.c");
 }
