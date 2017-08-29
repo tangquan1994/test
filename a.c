@@ -3,5 +3,5 @@
 void main()
 {
 	int a;
-	printf("tangquan");
+	printf("this is a.c");
 }
