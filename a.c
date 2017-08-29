@@ -2,8 +2,8 @@
 
 void main()
 {
-	asd
+	1111111111
 	int a,b,c,d,e,f;
 	printf("this is a.c");
-	qwe
+	2222222222
 }
